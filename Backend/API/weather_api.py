@@ -4,7 +4,7 @@ import datetime
 
 
 def weather_api(city):
-    app_id = 'f1eebb9a2860f4d87087f1bfe7e95979'
+    
 
     if city == 'Utrecht':
         lat = '52.091824'

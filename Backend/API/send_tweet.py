@@ -2,11 +2,6 @@ import tweepy
 import requests
 import json
 
-consumer_key = 'JDdj6I1S1WqU7p5nYs3OMisxK'
-consumer_secret_key = 'Gwtcqqge1qLnhgK3uMKpVOhefUSKwMtk5XR4oYpXLy8ppYwad8'
-access_token = '3154027043-aCioPGK5Lxynw6bFQcB9RmlCX3EoMSe0XeXnv1S'
-access_token_secret = 'Carqdl4m66kygEYmUhUJSt3nP3czOrXKQLCbTxTodDfWZ'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAJnPVAEAAAAAW7hAlkRMbEdjwg9bPmjabfExBdM%3Dk0pBQPQZiPQWDD8zIC631AhW1LFWyLvvJVjqY2EHiybNpwqwHR'
 
 
 def send_tweet(commentaar):
